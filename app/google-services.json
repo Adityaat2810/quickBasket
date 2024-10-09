@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044235992714",
+    "project_id": "quickbasket-b53c6",
+    "storage_bucket": "quickbasket-b53c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044235992714:android:2c78f4dbbf7d4bf20b7773",
+        "android_client_info": {
+          "package_name": "com.example.quickbasket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_o3NqOXH1yI3Q75KrRkoT3odocjeV2F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
